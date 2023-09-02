@@ -11,8 +11,8 @@ Welcome to my GitHub profile!
 - 🎓 BSc in Business and Management at UniTo (Italy, Turin).
 - 🎓 MSc in Marketing at Luiss Guido Carli University (Italy, Rome).
 - 🎓 MSc in Marketing Analytics at Tilburg University (Tilburg, Netherlands).
-- 🏡 Born in Turin, lived in Rome, actually located in Tilburg. 
+- 🏡 Born in Turin, lived in Rome for some time, currently living in Tilburg. 
 - 📫 You can reach me at tommaso.rabino1@gmail.com.
-
+  
 
 Feel free to reach out if you have any questions, want to collaborate, just chat, or anything else! 😊
