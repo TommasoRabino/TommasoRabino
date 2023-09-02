@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**TommasoRabino/TommasoRabino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm __Tommaso Rabino__, I'm 23 years old and I am a __Marketing Analyst__.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 😄 Pronouns: he/him
+- 🌱 I'm passionate about Business, Marketing, Data Analysis, Fitness, Nutrition and Technologies.
+- 🎓 BSc in Business and Management at UniTo (Italy, Turin).
+- 🎓 MSc in Marketing at Luiss Guido Carli University (Italy, Rome).
+- 🎓 MSc in Marketing Analytics at Tilburg University (Tilburg, Netherlands).
+- 🏡 Born in Turin, lived in Rome, actually located in Tilburg. 
+- 📫 You can reach me at tommaso.rabino1@gmail.com.
+
+
+Feel free to reach out if you have any questions, want to collaborate, just chat, or anything else! 😊
