@@ -6,7 +6,6 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 😄 Pronouns: he/him
 - 🌱 I'm passionate about Business, Marketing, Data Analysis, Fitness, Nutrition and Technologies.
 - 🎓 BSc in Business and Management at UniTo (Italy, Turin).
 - 🎓 MSc in Marketing at Luiss Guido Carli University (Italy, Rome).
